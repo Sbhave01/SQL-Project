@@ -1,6 +1,7 @@
-# SQL-Project
+#  DataCamp Project
+## SQL-Project
 
-## Project Done
+### Project Done
 
 |`Analyze International Debt Statistics`|
 |---------------------------------------|
